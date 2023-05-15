@@ -1,3 +1,11 @@
-# Metric-Imperial Converter
+# Quality Assurance Projects
+## Metric-Imperial Converter
 
-This is the boilerplate for the Metric-Imperial Converter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter
+An Imperial-Metric measures converter API.
+
+---
+
+This project is hosted on [...]
+
+![EXPRESS](https://img.shields.io/badge/Express.js-fff.svg?&logo=Express&logoColor=000)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?&logo=javascript&logoColor=black)&nbsp;
