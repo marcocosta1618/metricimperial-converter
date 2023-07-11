@@ -14,8 +14,7 @@
 		"cors": "^2.8.5",
 		"dotenv": "^8.2.0",
 		"express": "^4.17.1",
-		"mocha": "^10.2.0",
-		"vercel": "^31.0.2"
+		"mocha": "^10.2.0"
 	},
 	"repository": {
 		"type": "git",
