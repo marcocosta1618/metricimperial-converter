@@ -70,31 +70,4 @@ suite('Unit Tests', function(){
         const kmToMi = 0.62137;
         assert.equal(convertHandler.convert(1, 'km'), kmToMi);
     });
-    /*
-    test('11_unitConversions', () => {
-        const expect = {
-            galToL: 3.78541,
-            lToGal: 0.26417,
-            lbsToKg: 0.45359,
-            kgToLbs: 2.20462,
-            miToKm: 1.60934,
-            kmToMi: 0.62137
-        }
-        // volume
-        const convGalToL = convertHandler.convert(1, 'gal');
-        const convLtoGal = convertHandler.convert(1, 'L');
-        // weight
-        const convLbsToKg = convertHandler.convert(1, 'lbs');
-        const convKgToLbs = convertHandler.convert(1, 'kg');
-        // length
-        const convMiToKm = convertHandler.convert(1, 'mi');
-        const convKmToMi = convertHandler.convert(1, 'km');
-        assert.equal(convGalToL, expect.galToL);
-        assert.equal(convLtoGal, expect.lToGal);
-        assert.equal(convLbsToKg, expect.lbsToKg);
-        assert.equal(convKgToLbs, expect.kgToLbs);
-        assert.equal(convMiToKm, expect.miToKm);
-        assert.equal(convKmToMi, expect.kmToMi);
-    });
-    */
 });
